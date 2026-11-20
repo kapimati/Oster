@@ -1,0 +1,9 @@
+   [package]
+   name = "oster"
+   version = "0.1.0"
+   edition = "2021"
+   description = "A small systems language that compiles to portable C11"
+   license = "GPL-3.0"
+   repository = "https://github.com/kapimati/Oster"
+   keywords = ["compiler", "language", "systems", "c11"]
+   categories = ["compilers", "command-line-utilities"]
