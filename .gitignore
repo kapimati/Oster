@@ -1,0 +1,10 @@
+/target
+**/*.rs.bk
+*.c
+*.o
+*.exe
+loops
+demo
+try
+*.os
+!examples/*.os
